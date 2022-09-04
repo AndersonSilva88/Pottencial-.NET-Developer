@@ -1,7 +1,48 @@
-﻿using Fundamentos_.Net.Common.Models;
+﻿
+List<string> listaString = new List<string>();
+listaString.Add("PR");
+listaString.Add("SP");
+listaString.Add("MG");
+
+Console.WriteLine("****** For *******");
+for (int i = 0; i < listaString.Count; i++)
+{
+    Console.WriteLine($"Posição N° {i} - {listaString[i]}");
+}
+
+Console.WriteLine("***** ForEach ******");
+int j = 0;
+foreach (string item in listaString)
+{
+    Console.WriteLine($"Posição N° {j} - {item}");
+    j++;
+}
+
+// int[] arrayInteiros = new int[3];
+
+// arrayInteiros[0] = 72;
+// arrayInteiros[1] = 64;
+// arrayInteiros[2] = 50;
 
 
+// int[] arrayDobrado = new int[arrayInteiros.Length * 2];
+// Array.Copy(arrayInteiros, arrayDobrado, arrayInteiros.Length);
 
+// //Array.Resize(ref arrayInteiros, arrayInteiros.Length * 2);
+
+// Console.WriteLine("***** For *****");
+// for (int i = 0; i < arrayInteiros.Length; i++)
+// {
+//     Console.WriteLine($"Posição N° {i} - {arrayInteiros[i]}");
+// }
+
+// Console.WriteLine("***** ForEach *****");
+// int j = 0;
+// foreach (int valor in arrayInteiros)
+// {
+//     Console.WriteLine($"Posição N° {j} - {valor}");
+//     j++;
+// }
 
 //Menu
 // string opcao = "";
