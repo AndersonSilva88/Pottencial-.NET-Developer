@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AndersonLaptop\\Documents\\BootCamp DotNet Developer\\BootCamp DotNet Developer\\Fundamentos\\Fundamentos .Net - backup\\Fundamentos .Net.csproj": {}
+    "C:\\Users\\AndersonLaptop\\Documents\\BootCamp DotNet Developer\\BootCamp DotNet Developer\\Fundamentos\\exercicios\\exercicios.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AndersonLaptop\\Documents\\BootCamp DotNet Developer\\BootCamp DotNet Developer\\Fundamentos\\Fundamentos .Net - backup\\Fundamentos .Net.csproj": {
+    "C:\\Users\\AndersonLaptop\\Documents\\BootCamp DotNet Developer\\BootCamp DotNet Developer\\Fundamentos\\exercicios\\exercicios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AndersonLaptop\\Documents\\BootCamp DotNet Developer\\BootCamp DotNet Developer\\Fundamentos\\Fundamentos .Net - backup\\Fundamentos .Net.csproj",
-        "projectName": "Fundamentos .Net",
-        "projectPath": "C:\\Users\\AndersonLaptop\\Documents\\BootCamp DotNet Developer\\BootCamp DotNet Developer\\Fundamentos\\Fundamentos .Net - backup\\Fundamentos .Net.csproj",
+        "projectUniqueName": "C:\\Users\\AndersonLaptop\\Documents\\BootCamp DotNet Developer\\BootCamp DotNet Developer\\Fundamentos\\exercicios\\exercicios.csproj",
+        "projectName": "exercicios",
+        "projectPath": "C:\\Users\\AndersonLaptop\\Documents\\BootCamp DotNet Developer\\BootCamp DotNet Developer\\Fundamentos\\exercicios\\exercicios.csproj",
         "packagesPath": "C:\\Users\\AndersonLaptop\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AndersonLaptop\\Documents\\BootCamp DotNet Developer\\BootCamp DotNet Developer\\Fundamentos\\Fundamentos .Net - backup\\obj\\",
+        "outputPath": "C:\\Users\\AndersonLaptop\\Documents\\BootCamp DotNet Developer\\BootCamp DotNet Developer\\Fundamentos\\exercicios\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

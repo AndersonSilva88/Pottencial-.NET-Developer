@@ -13,3 +13,18 @@ C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Deve
 C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Fundamentos .Net\obj\Debug\net6.0\Fundamentos .Net.pdb
 C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Fundamentos .Net\obj\Debug\net6.0\Fundamentos .Net.genruntimeconfig.cache
 C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Fundamentos .Net\obj\Debug\net6.0\ref\Fundamentos .Net.dll
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Fundamentos\Fundamentos .Net - backup\bin\Debug\net6.0\Fundamentos .Net.exe
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Fundamentos\Fundamentos .Net - backup\bin\Debug\net6.0\Fundamentos .Net.deps.json
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Fundamentos\Fundamentos .Net - backup\bin\Debug\net6.0\Fundamentos .Net.runtimeconfig.json
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Fundamentos\Fundamentos .Net - backup\bin\Debug\net6.0\Fundamentos .Net.dll
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Fundamentos\Fundamentos .Net - backup\bin\Debug\net6.0\Fundamentos .Net.pdb
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Fundamentos\Fundamentos .Net - backup\obj\Debug\net6.0\Fundamentos .Net.csproj.AssemblyReference.cache
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Fundamentos\Fundamentos .Net - backup\obj\Debug\net6.0\Fundamentos .Net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Fundamentos\Fundamentos .Net - backup\obj\Debug\net6.0\Fundamentos .Net.AssemblyInfoInputs.cache
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Fundamentos\Fundamentos .Net - backup\obj\Debug\net6.0\Fundamentos .Net.AssemblyInfo.cs
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Fundamentos\Fundamentos .Net - backup\obj\Debug\net6.0\Fundamentos .Net.csproj.CoreCompileInputs.cache
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Fundamentos\Fundamentos .Net - backup\obj\Debug\net6.0\Fundamentos .Net.dll
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Fundamentos\Fundamentos .Net - backup\obj\Debug\net6.0\refint\Fundamentos .Net.dll
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Fundamentos\Fundamentos .Net - backup\obj\Debug\net6.0\Fundamentos .Net.pdb
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Fundamentos\Fundamentos .Net - backup\obj\Debug\net6.0\Fundamentos .Net.genruntimeconfig.cache
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Fundamentos\Fundamentos .Net - backup\obj\Debug\net6.0\ref\Fundamentos .Net.dll

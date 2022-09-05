@@ -1,22 +1,36 @@
-﻿
-List<string> listaString = new List<string>();
-listaString.Add("PR");
-listaString.Add("SP");
-listaString.Add("MG");
+﻿using System;
 
-Console.WriteLine("****** For *******");
-for (int i = 0; i < listaString.Count; i++)
+int n = int.Parse(console.ReadLine());
+int p = 1, s =0;
+
+while (n > 0)
 {
-    Console.WriteLine($"Posição N° {i} - {listaString[i]}");
+    int l = n % 10;
+
+    p *= l;
 }
 
-Console.WriteLine("***** ForEach ******");
-int j = 0;
-foreach (string item in listaString)
-{
-    Console.WriteLine($"Posição N° {j} - {item}");
-    j++;
-}
+console.WriteLine(p);
+
+
+// List<string> listaString = new List<string>();
+// listaString.Add("PR");
+// listaString.Add("SP");
+// listaString.Add("MG");
+
+// Console.WriteLine("****** For *******");
+// for (int i = 0; i < listaString.Count; i++)
+// {
+//     Console.WriteLine($"Posição N° {i} - {listaString[i]}");
+// }
+
+// Console.WriteLine("***** ForEach ******");
+// int j = 0;
+// foreach (string item in listaString)
+// {
+//     Console.WriteLine($"Posição N° {j} - {item}");
+//     j++;
+// }
 
 // int[] arrayInteiros = new int[3];
 

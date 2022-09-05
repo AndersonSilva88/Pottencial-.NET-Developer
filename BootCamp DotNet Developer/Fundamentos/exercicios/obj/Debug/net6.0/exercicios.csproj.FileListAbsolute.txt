@@ -1,0 +1,15 @@
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Fundamentos\exercicios\bin\Debug\net6.0\exercicios.exe
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Fundamentos\exercicios\bin\Debug\net6.0\exercicios.deps.json
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Fundamentos\exercicios\bin\Debug\net6.0\exercicios.runtimeconfig.json
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Fundamentos\exercicios\bin\Debug\net6.0\exercicios.dll
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Fundamentos\exercicios\bin\Debug\net6.0\exercicios.pdb
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Fundamentos\exercicios\obj\Debug\net6.0\exercicios.csproj.AssemblyReference.cache
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Fundamentos\exercicios\obj\Debug\net6.0\exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Fundamentos\exercicios\obj\Debug\net6.0\exercicios.AssemblyInfoInputs.cache
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Fundamentos\exercicios\obj\Debug\net6.0\exercicios.AssemblyInfo.cs
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Fundamentos\exercicios\obj\Debug\net6.0\exercicios.csproj.CoreCompileInputs.cache
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Fundamentos\exercicios\obj\Debug\net6.0\exercicios.dll
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Fundamentos\exercicios\obj\Debug\net6.0\refint\exercicios.dll
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Fundamentos\exercicios\obj\Debug\net6.0\exercicios.pdb
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Fundamentos\exercicios\obj\Debug\net6.0\exercicios.genruntimeconfig.cache
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Fundamentos\exercicios\obj\Debug\net6.0\ref\exercicios.dll

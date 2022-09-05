@@ -1,45 +1,58 @@
 ﻿using Fundamentos_.Net.Models;
 
+int n = int.Parse(Console.ReadLine());
+int p = 1;
+int s =  0;
+
+while (n > 0)
+{
+    int l = n % 10;
+
+    p *= l;
+    s += l;
+}
+
+Console.WriteLine(p-s);
 
 
 
 //Menu
-string opcao = "";
-bool exibiMenu = true;
+// string opcao = "";
+// bool exibiMenu = true;
 
-while (exibiMenu)
-{
-    Console.Clear();
-    Console.WriteLine("Digite a sua opção: ");
-    Console.WriteLine("1 - Cadastrar cliente");
-    Console.WriteLine("2 - Buscar cliente");
-    Console.WriteLine("3 - Apagar cliente");
-    Console.WriteLine("4 - Encerrar");
+// while (exibiMenu)
+// {
+//     Console.Clear();
+//     Console.WriteLine("Digite a sua opção: ");
+//     Console.WriteLine("1 - Cadastrar cliente");
+//     Console.WriteLine("2 - Buscar cliente");
+//     Console.WriteLine("3 - Apagar cliente");
+//     Console.WriteLine("4 - Encerrar");
 
-    opcao = Console.ReadLine();
+//     opcao = Console.ReadLine();
 
-    switch (opcao)
-    {
-        case "1":
-            Console.WriteLine("Cadastro de cliente");
-            break;
-        case "2":
-            Console.WriteLine("Buscar cliente");
-            break;
-        case "3":
-            Console.WriteLine("Apagar cliente");
-            break;
-        case "4":
-            Console.WriteLine("Encerrar"); 
-            exibiMenu = false;
-            break;           
-        default:
-            Console.WriteLine("Opção inválida");
-            break;
-    }
-}
+//     switch (opcao)
+//     {
+//         case "1":
+//             Console.WriteLine("Cadastro de cliente");
+//             break;
+//         case "2":
+//             Console.WriteLine("Buscar cliente");
+//             break;
+//         case "3":
+//             Console.WriteLine("Apagar cliente");
+//             break;
+//         case "4":
+//             Console.WriteLine("Encerrar"); 
+//             exibiMenu = false;
+//             break;           
+//         default:
+//             Console.WriteLine("Opção inválida");
+//             break;
+//     }
+// }
 
-Console.WriteLine("Finalizando programa!! ");
+// Console.WriteLine("Finalizando programa!! ");
 
 
 // int soma = 0;
