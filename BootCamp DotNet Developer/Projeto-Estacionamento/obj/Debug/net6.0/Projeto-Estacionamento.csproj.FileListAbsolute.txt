@@ -1,0 +1,15 @@
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Projeto-Estacionamento\bin\Debug\net6.0\Projeto-Estacionamento.exe
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Projeto-Estacionamento\bin\Debug\net6.0\Projeto-Estacionamento.deps.json
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Projeto-Estacionamento\bin\Debug\net6.0\Projeto-Estacionamento.runtimeconfig.json
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Projeto-Estacionamento\bin\Debug\net6.0\Projeto-Estacionamento.dll
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Projeto-Estacionamento\bin\Debug\net6.0\Projeto-Estacionamento.pdb
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Projeto-Estacionamento\obj\Debug\net6.0\Projeto-Estacionamento.csproj.AssemblyReference.cache
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Projeto-Estacionamento\obj\Debug\net6.0\Projeto-Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Projeto-Estacionamento\obj\Debug\net6.0\Projeto-Estacionamento.AssemblyInfoInputs.cache
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Projeto-Estacionamento\obj\Debug\net6.0\Projeto-Estacionamento.AssemblyInfo.cs
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Projeto-Estacionamento\obj\Debug\net6.0\Projeto-Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Projeto-Estacionamento\obj\Debug\net6.0\Projeto-Estacionamento.dll
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Projeto-Estacionamento\obj\Debug\net6.0\refint\Projeto-Estacionamento.dll
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Projeto-Estacionamento\obj\Debug\net6.0\Projeto-Estacionamento.pdb
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Projeto-Estacionamento\obj\Debug\net6.0\Projeto-Estacionamento.genruntimeconfig.cache
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Projeto-Estacionamento\obj\Debug\net6.0\ref\Projeto-Estacionamento.dll
