@@ -29,7 +29,7 @@ namespace Propriedades_metodos_construtores.Models
 
         public void ListarAlunos()
         {
-            Console.WriteLine("Alunos do curso de Programação: ");
+            Console.WriteLine($"Alunos do curso de: {Nome} ");
             foreach (Pessoa aluno in Alunos)
             {
                 Console.WriteLine(aluno.NomeCompleto);
