@@ -1,0 +1,15 @@
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Propriedades-metodos-construtores\bin\Debug\net6.0\Propriedades-metodos-construtores.exe
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Propriedades-metodos-construtores\bin\Debug\net6.0\Propriedades-metodos-construtores.deps.json
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Propriedades-metodos-construtores\bin\Debug\net6.0\Propriedades-metodos-construtores.runtimeconfig.json
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Propriedades-metodos-construtores\bin\Debug\net6.0\Propriedades-metodos-construtores.dll
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Propriedades-metodos-construtores\bin\Debug\net6.0\Propriedades-metodos-construtores.pdb
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Propriedades-metodos-construtores\obj\Debug\net6.0\Propriedades-metodos-construtores.csproj.AssemblyReference.cache
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Propriedades-metodos-construtores\obj\Debug\net6.0\Propriedades-metodos-construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Propriedades-metodos-construtores\obj\Debug\net6.0\Propriedades-metodos-construtores.AssemblyInfoInputs.cache
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Propriedades-metodos-construtores\obj\Debug\net6.0\Propriedades-metodos-construtores.AssemblyInfo.cs
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Propriedades-metodos-construtores\obj\Debug\net6.0\Propriedades-metodos-construtores.csproj.CoreCompileInputs.cache
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Propriedades-metodos-construtores\obj\Debug\net6.0\Propriedades-metodos-construtores.dll
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Propriedades-metodos-construtores\obj\Debug\net6.0\refint\Propriedades-metodos-construtores.dll
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Propriedades-metodos-construtores\obj\Debug\net6.0\Propriedades-metodos-construtores.pdb
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Propriedades-metodos-construtores\obj\Debug\net6.0\Propriedades-metodos-construtores.genruntimeconfig.cache
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Propriedades-metodos-construtores\obj\Debug\net6.0\ref\Propriedades-metodos-construtores.dll
