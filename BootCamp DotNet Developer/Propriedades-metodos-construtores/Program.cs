@@ -1,7 +1,74 @@
 ﻿using Propriedades_metodos_construtores.Models;
 using System.Globalization;
 
-new ExemploExcecao().Metodo1();
+Dictionary<string, string> estados = new Dictionary<string, string>();
+
+estados.Add("PR", "Paraná");
+estados.Add("SP", "São Paulo");
+estados.Add("MG", "Minas Gerais");
+
+foreach (KeyValuePair<string, string> item in estados)
+{
+    Console.WriteLine($"Chave: {item.Key}, valor: {item.Value}");
+}
+Console.WriteLine("**** Removendo ******");
+estados.Remove("SP");
+
+foreach (KeyValuePair<string, string> item in estados)
+{
+    Console.WriteLine($"Chave: {item.Key}, valor: {item.Value}");
+}
+
+// Stack<int> pilha = new Stack<int>();
+// Console.WriteLine("**** Adicionando elementos na pilha ****");
+// pilha.Push(2);
+// pilha.Push(3);
+// pilha.Push(4);
+// pilha.Push(5);
+// pilha.Push(6);
+// pilha.Push(7);
+// pilha.Push(8);
+
+// Console.WriteLine("**** PILHA *****");
+// foreach (int item in pilha)
+// {
+//     Console.WriteLine(item);
+// }
+// Console.WriteLine("**** Remove Elemento ****");
+// Console.WriteLine($"Removendo o elemento do topo: {pilha.Pop()}");
+
+// Console.WriteLine("**** PILHA *****");
+// foreach (int item in pilha)
+// {
+//     Console.WriteLine(item);
+// }
+
+// Queue<int> fila = new Queue<int>();
+
+// fila.Enqueue(2);
+// fila.Enqueue(3);
+// fila.Enqueue(4);
+// fila.Enqueue(5);
+// fila.Enqueue(6);
+// fila.Enqueue(7);
+// fila.Enqueue(8);
+
+// Console.WriteLine("****** FILA ******");
+// foreach (int item in fila)
+// {
+//     Console.WriteLine(item);
+// }
+
+// Console.WriteLine("***** Removendo Elemento *****");
+// Console.WriteLine($"Removendo o elemento: {fila.Dequeue()}");
+
+// Console.WriteLine("****** FILA ******");
+// foreach (int item in fila)
+// {
+//     Console.WriteLine(item);
+// }
+
+// new ExemploExcecao().Metodo1();
 
 
 // try
