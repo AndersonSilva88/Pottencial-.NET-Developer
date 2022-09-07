@@ -1,19 +1,45 @@
 ﻿using Propriedades_metodos_construtores.Models;
 using System.Globalization;
 
-DateTime data = DateTime.Now;
-Console.WriteLine(data.ToString("dd/MM/yyyy HH:mm"));
+new ExemploExcecao().Metodo1();
 
-Console.WriteLine(data.ToShortDateString());
-Console.WriteLine(data.ToShortTimeString());
 
-string dataString = "2022-04-17 10:00";
+// try
+// {
+//     string[] linhas = File.ReadAllLines("Arquivos/arquivoLeitura.txt");
 
-DateTime.TryParseExact(dataString,
-                        "yyyy-MM-dd HH:mm",
-                        CultureInfo.InvariantCulture,
-                        DateTimeStyles.None, out DateTime data1);
-Console.WriteLine(data1);
+//     foreach (string linha in linhas)
+//     {
+//         Console.WriteLine(linha);
+//     }
+
+// }
+// catch (Exception e)
+// {
+//     Console.WriteLine($"Ocorreu uma exceção genérica. {e.Message}");
+// }
+// finally
+// {
+//     Console.WriteLine("Chegou até aqui");
+// }
+
+
+
+
+
+// DateTime data = DateTime.Now;
+// Console.WriteLine(data.ToString("dd/MM/yyyy HH:mm"));
+
+// Console.WriteLine(data.ToShortDateString());
+// Console.WriteLine(data.ToShortTimeString());
+
+// string dataString = "2022-04-17 10:00";
+
+// DateTime.TryParseExact(dataString,
+//                         "yyyy-MM-dd HH:mm",
+//                         CultureInfo.InvariantCulture,
+//                         DateTimeStyles.None, out DateTime data1);
+// Console.WriteLine(data1);
 
 // CultureInfo.DefaultThreadCurrentCulture = new CultureInfo("en-US");
 
