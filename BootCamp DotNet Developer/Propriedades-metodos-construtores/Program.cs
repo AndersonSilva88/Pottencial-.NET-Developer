@@ -1,11 +1,44 @@
 ﻿using Propriedades_metodos_construtores.Models;
 using System.Globalization;
+using Newtonsoft.Json;
 
-int numero = 10;
-bool ehPar = false;
+string conteudo = File.ReadAllText("Arquivos/vendas.json");
 
-ehPar = numero % 2 == 0;
-Console.WriteLine($"O número {numero} é " + (ehPar ? "par" : "impar"));
+List<Venda> listaVenda = JsonConvert.DeserializeObject<List<Venda>>(conteudo);
+
+foreach (Venda venda in listaVenda)
+{
+    Console.WriteLine($"Id: {venda.Id}, Produto: {venda.Produto}, " +
+                    $"Preço: {venda.Preco}, Data: {venda.DataVenda.ToString("dd/MM/yyyy HH:mm")}");
+}
+
+// DateTime DataAtual = DateTime.Now;
+
+// List<Venda> listaVenda = new List<Venda>();
+
+// Venda venda = new Venda(1, "Caneta", 10.0M, DataAtual);
+// Venda venda1 = new Venda(2, "Lapis", 5.50M, DataAtual);
+// Venda venda2 = new Venda(3, "Borracha", 1.50M, DataAtual);
+// Venda venda3 = new Venda(4, "Apontador", 2.50M, DataAtual);
+
+// listaVenda.Add(venda);
+// listaVenda.Add(venda1);
+// listaVenda.Add(venda2);
+// listaVenda.Add(venda3);
+
+// string serializado = JsonConvert.SerializeObject(listaVenda, Formatting.Indented);
+
+// File.WriteAllText("Arquivos/vendas.json", serializado);
+
+// Console.WriteLine(serializado);
+
+
+
+// int numero = 10;
+// bool ehPar = false;
+
+// ehPar = numero % 2 == 0;
+// Console.WriteLine($"O número {numero} é " + (ehPar ? "par" : "impar"));
 
 // if (numero % 2 == 0)
 // {

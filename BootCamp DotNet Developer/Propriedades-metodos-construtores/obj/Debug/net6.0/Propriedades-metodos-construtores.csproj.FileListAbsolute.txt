@@ -13,3 +13,5 @@ C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Deve
 C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Propriedades-metodos-construtores\obj\Debug\net6.0\Propriedades-metodos-construtores.pdb
 C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Propriedades-metodos-construtores\obj\Debug\net6.0\Propriedades-metodos-construtores.genruntimeconfig.cache
 C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Propriedades-metodos-construtores\obj\Debug\net6.0\ref\Propriedades-metodos-construtores.dll
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Propriedades-metodos-construtores\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Propriedades-metodos-construtores\obj\Debug\net6.0\Propriedades-metodos-construtores.csproj.CopyComplete
