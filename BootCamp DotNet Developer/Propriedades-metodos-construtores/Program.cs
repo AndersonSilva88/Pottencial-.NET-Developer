@@ -2,13 +2,145 @@
 using System.Globalization;
 using Newtonsoft.Json;
 
-int numero = 10;
-bool par = false;
+int quantidadeEntradas = 3;
 
-par = numero.EhPar();
+while (quantidadeEntradas > 0)
+{
+    var numeroQuantidade = Int32.Parse(Console.ReadLine());
 
-string mensagem = "O número " + numero + " " + "é " + (par ? "par" : "impar");
-Console.WriteLine(mensagem);
+    if (numeroQuantidade >= 1 && numeroQuantidade <= 500)
+    {
+        string[] tartarugas = Console.ReadLine().Split(" ");
+        var maiorVelocidade = Int32.Parse(tartarugas[0]);
+
+        for (int i = 1; i < numeroQuantidade; i++)
+        {
+            var tartaruga = Int32.Parse(tartarugas[i]);
+
+            if (tartaruga > maiorVelocidade)
+            {
+                maiorVelocidade = tartaruga;
+            }
+        }
+
+        if (maiorVelocidade < 10)
+        {
+            Console.WriteLine(1);
+        }
+        else if (maiorVelocidade >= 10 && maiorVelocidade < 20)
+        {
+            Console.WriteLine(2);
+        }
+        else if (maiorVelocidade >= 20)
+        {
+            Console.WriteLine(3);
+        }
+
+        quantidadeEntradas--;
+    }
+    else
+    {
+        Console.WriteLine("Insira um numero entre 1 e 500");
+    }
+
+}
+
+
+
+// double salario = 0.00;
+// double reajuste = 0.00;
+// double novoSalario = 0.00;
+// double percentual = 0.00;
+
+// salario = Convert.ToDouble(Console.ReadLine());
+
+// if (salario < 0.0)
+// {
+//     return;
+// }
+// else if (salario >= 0.0 && salario <= 400.00)
+// {
+//     percentual = 15.0 / 100.00;
+//     reajuste = salario * percentual;
+//     novoSalario = reajuste + salario;
+// }
+// else if (salario > 400.00 && salario <= 800.00)
+// {
+//     percentual = 12.0 / 100.00;
+//     reajuste = salario * percentual;
+//     novoSalario = reajuste + salario;
+// }
+// else if (salario > 800.00 && salario <= 1200.00)
+// {
+//     percentual = 10.0 / 100.00;
+//     reajuste = salario * percentual;
+//     novoSalario = reajuste + salario;
+// }
+// else if (salario > 1200.00 && salario <= 2000.00)
+// {
+//     percentual = 7.0 / 100.00;
+//     reajuste = salario * percentual;
+//     novoSalario = reajuste + salario;
+// }
+// else
+// {
+//     percentual = 4.0 / 100.0;
+//     reajuste = salario * percentual;
+//     novoSalario = reajuste + salario;
+// }
+
+// Console.WriteLine("Novo salario {0:0.00}", novoSalario);
+// Console.WriteLine("Reajuste ganho : {0:0.00}", reajuste);
+// Console.WriteLine("Em percentual: {0} %", percentual * 100.00);
+
+// int n = int.Parse(Console.ReadLine());
+
+// int[] num = new int[n];
+
+// for (int i = 0; i < n; i++)
+// {
+//     num[i] = int.Parse(Console.ReadLine());
+// }
+
+// Console.WriteLine(NumVez(num));
+
+
+// static int NumVez(int[] nums)
+// {
+//     int m = 0;
+//     int aux = 0;
+
+//     for (int j = 0; j < nums.Length; j++)
+//     {
+//         int count = 0;
+
+//         for (int x = 0; x < nums.Length; x++)
+//         {
+//             if (nums[j] == nums[x])
+//             {
+//                 count++;
+//             }
+//         }
+
+//         if (count > aux)
+//         {
+//             m = nums[j];
+//             aux = count;
+//         }
+//     }
+
+//     return m;
+// }
+
+
+
+// int numero = 10;
+// bool par = false;
+
+// par = numero.EhPar();
+
+// string mensagem = "O número " + numero + " " + "é " + (par ? "par" : "impar");
+// Console.WriteLine(mensagem);
 
 // MeuArray<int> arrayInteiro = new MeuArray<int>();
 
