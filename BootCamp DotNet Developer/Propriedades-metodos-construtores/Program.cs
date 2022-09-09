@@ -2,15 +2,72 @@
 using System.Globalization;
 using Newtonsoft.Json;
 
-string conteudo = File.ReadAllText("Arquivos/vendas.json");
+int numero = 10;
+bool par = false;
 
-List<Venda> listaVenda = JsonConvert.DeserializeObject<List<Venda>>(conteudo);
+par = numero.EhPar();
 
-foreach (Venda venda in listaVenda)
-{
-    Console.WriteLine($"Id: {venda.Id}, Produto: {venda.Produto}, " +
-                    $"Preço: {venda.Preco}, Data: {venda.DataVenda.ToString("dd/MM/yyyy HH:mm")}");
-}
+string mensagem = "O número " + numero + " " + "é " + (par ? "par" : "impar");
+Console.WriteLine(mensagem);
+
+// MeuArray<int> arrayInteiro = new MeuArray<int>();
+
+// arrayInteiro.AdicionarElementoArray(10);
+
+// Console.WriteLine(arrayInteiro[0]);
+
+// string conteudoArquivo = File.ReadAllText("Arquivos/vendas.json");
+
+// List<Venda> listaVenda = JsonConvert.DeserializeObject<List<Venda>>(conteudoArquivo);
+
+// var listaAnonima = listaVenda.Select(x => new { x.Produto, x.Preco });
+
+// foreach (var venda in listaAnonima)
+// {
+//     Console.WriteLine($"Produto: {venda.Produto}, Preço: {venda.Preco}");
+// }
+
+// var tipoAnonimo = new { Nome = "Anderson", Sobreome = "Silva", Altura = 1.90 };
+
+// Console.WriteLine("Nome: " + tipoAnonimo.Nome);
+// Console.WriteLine("Sobrenome: " + tipoAnonimo.Sobreome);
+// Console.WriteLine("Altura: " + tipoAnonimo.Altura);
+
+// string conteudo = File.ReadAllText("Arquivos/vendas.json");
+
+// List<Venda> listaVenda = JsonConvert.DeserializeObject<List<Venda>>(conteudo);
+
+// foreach (Venda venda in listaVenda)
+// {
+//     Console.WriteLine($"Id: {venda.Id}, Produto: {venda.Produto}, " +
+//                     $"Preço: {venda.Preco}, Data: {venda.DataVenda.ToString("dd/MM/yyyy HH:mm")}" +
+//                     $", Desconto: {venda.Desconto}");
+// }
+
+
+
+// bool? desejaReceberEmail = null;
+
+// if (desejaReceberEmail.HasValue && desejaReceberEmail.Value)
+// {
+//     Console.WriteLine("O Usuário optou em receber e-mail");
+// }
+// else
+// {
+//     Console.WriteLine("O usuário não respondeu ou optou por não receber e-mail");
+// }
+
+
+
+// string conteudo = File.ReadAllText("Arquivos/vendas.json");
+
+// List<Venda> listaVenda = JsonConvert.DeserializeObject<List<Venda>>(conteudo);
+
+// foreach (Venda venda in listaVenda)
+// {
+//     Console.WriteLine($"Id: {venda.Id}, Produto: {venda.Produto}, " +
+//                     $"Preço: {venda.Preco}, Data: {venda.DataVenda.ToString("dd/MM/yyyy HH:mm")}");
+// }
 
 // DateTime DataAtual = DateTime.Now;
 
