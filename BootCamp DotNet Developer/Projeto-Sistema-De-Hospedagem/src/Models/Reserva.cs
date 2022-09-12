@@ -24,7 +24,7 @@ namespace Projeto_Sistema_De_Hospedagem.src.Models
         {
             // TODO: Verificar se a capacidade é maior ou igual ao número de hóspedes sendo recebido
             // *IMPLEMENTE AQUI*
-            if (true)
+            if (hospedes.Count <= Suite.Capacidade)
             {
                 Hospedes = hospedes;
             }
@@ -32,6 +32,7 @@ namespace Projeto_Sistema_De_Hospedagem.src.Models
             {
                 // TODO: Retornar uma exception caso a capacidade seja menor que o número de hóspedes recebido
                 // *IMPLEMENTE AQUI*
+                throw new Exception("A Quantidade de hóspedes é maior que a capacidade da suite!!");
             }
         }
         public void CadastrarSuite(Suite suite)
@@ -43,7 +44,7 @@ namespace Projeto_Sistema_De_Hospedagem.src.Models
         {
             // TODO: Retorna a quantidade de hóspedes (propriedade Hospedes)
             // *IMPLEMENTE AQUI*
-            return 0;
+            return Hospedes.Count;
         }
 
         public decimal CalcularValorDiaria()
@@ -51,13 +52,15 @@ namespace Projeto_Sistema_De_Hospedagem.src.Models
             // TODO: Retorna o valor da diária
             // Cálculo: DiasReservados X Suite.ValorDiaria
             // *IMPLEMENTE AQUI*
-            decimal valor = 0;
+            decimal valor = DiasReservados * Suite.ValorDiaria;
 
             // Regra: Caso os dias reservados forem maior ou igual a 10, conceder um desconto de 10%
             // *IMPLEMENTE AQUI*
-            if (true)
+            if (DiasReservados >= 10)
             {
-                valor = 0;
+                decimal Calcular = DiasReservados * Suite.ValorDiaria;
+                decimal porcentagem = (Calcular * 10) / 100;
+                valor = (DiasReservados * Suite.ValorDiaria) - porcentagem;
             }
 
             return valor;

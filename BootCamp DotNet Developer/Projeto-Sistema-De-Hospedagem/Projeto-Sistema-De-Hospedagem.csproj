@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <RootNamespace>Projeto_Sistema_De_Hospedagem</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>diseble</Nullable>
+    <Nullable>disable</Nullable>
   </PropertyGroup>
 
 </Project>
