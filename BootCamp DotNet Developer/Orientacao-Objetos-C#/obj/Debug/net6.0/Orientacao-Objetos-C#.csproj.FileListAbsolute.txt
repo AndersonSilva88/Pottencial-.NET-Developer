@@ -1,0 +1,15 @@
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Orientacao-Objetos-C#\bin\Debug\net6.0\Orientacao-Objetos-C#.exe
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Orientacao-Objetos-C#\bin\Debug\net6.0\Orientacao-Objetos-C#.deps.json
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Orientacao-Objetos-C#\bin\Debug\net6.0\Orientacao-Objetos-C#.runtimeconfig.json
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Orientacao-Objetos-C#\bin\Debug\net6.0\Orientacao-Objetos-C#.dll
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Orientacao-Objetos-C#\bin\Debug\net6.0\Orientacao-Objetos-C#.pdb
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Orientacao-Objetos-C#\obj\Debug\net6.0\Orientacao-Objetos-C#.csproj.AssemblyReference.cache
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Orientacao-Objetos-C#\obj\Debug\net6.0\Orientacao-Objetos-C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Orientacao-Objetos-C#\obj\Debug\net6.0\Orientacao-Objetos-C#.AssemblyInfoInputs.cache
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Orientacao-Objetos-C#\obj\Debug\net6.0\Orientacao-Objetos-C#.AssemblyInfo.cs
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Orientacao-Objetos-C#\obj\Debug\net6.0\Orientacao-Objetos-C#.csproj.CoreCompileInputs.cache
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Orientacao-Objetos-C#\obj\Debug\net6.0\Orientacao-Objetos-C#.dll
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Orientacao-Objetos-C#\obj\Debug\net6.0\refint\Orientacao-Objetos-C#.dll
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Orientacao-Objetos-C#\obj\Debug\net6.0\Orientacao-Objetos-C#.pdb
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Orientacao-Objetos-C#\obj\Debug\net6.0\Orientacao-Objetos-C#.genruntimeconfig.cache
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Orientacao-Objetos-C#\obj\Debug\net6.0\ref\Orientacao-Objetos-C#.dll
