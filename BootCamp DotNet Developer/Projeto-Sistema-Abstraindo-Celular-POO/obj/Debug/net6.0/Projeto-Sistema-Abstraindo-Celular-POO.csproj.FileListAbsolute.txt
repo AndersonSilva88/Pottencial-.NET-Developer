@@ -1,0 +1,15 @@
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Projeto-Sistema-Abstraindo-Celular-POO\bin\Debug\net6.0\Projeto-Sistema-Abstraindo-Celular-POO.exe
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Projeto-Sistema-Abstraindo-Celular-POO\bin\Debug\net6.0\Projeto-Sistema-Abstraindo-Celular-POO.deps.json
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Projeto-Sistema-Abstraindo-Celular-POO\bin\Debug\net6.0\Projeto-Sistema-Abstraindo-Celular-POO.runtimeconfig.json
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Projeto-Sistema-Abstraindo-Celular-POO\bin\Debug\net6.0\Projeto-Sistema-Abstraindo-Celular-POO.dll
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Projeto-Sistema-Abstraindo-Celular-POO\bin\Debug\net6.0\Projeto-Sistema-Abstraindo-Celular-POO.pdb
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Projeto-Sistema-Abstraindo-Celular-POO\obj\Debug\net6.0\Projeto-Sistema-Abstraindo-Celular-POO.csproj.AssemblyReference.cache
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Projeto-Sistema-Abstraindo-Celular-POO\obj\Debug\net6.0\Projeto-Sistema-Abstraindo-Celular-POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Projeto-Sistema-Abstraindo-Celular-POO\obj\Debug\net6.0\Projeto-Sistema-Abstraindo-Celular-POO.AssemblyInfoInputs.cache
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Projeto-Sistema-Abstraindo-Celular-POO\obj\Debug\net6.0\Projeto-Sistema-Abstraindo-Celular-POO.AssemblyInfo.cs
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Projeto-Sistema-Abstraindo-Celular-POO\obj\Debug\net6.0\Projeto-Sistema-Abstraindo-Celular-POO.csproj.CoreCompileInputs.cache
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Projeto-Sistema-Abstraindo-Celular-POO\obj\Debug\net6.0\Projeto-Sistema-Abstraindo-Celular-POO.dll
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Projeto-Sistema-Abstraindo-Celular-POO\obj\Debug\net6.0\refint\Projeto-Sistema-Abstraindo-Celular-POO.dll
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Projeto-Sistema-Abstraindo-Celular-POO\obj\Debug\net6.0\Projeto-Sistema-Abstraindo-Celular-POO.pdb
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Projeto-Sistema-Abstraindo-Celular-POO\obj\Debug\net6.0\Projeto-Sistema-Abstraindo-Celular-POO.genruntimeconfig.cache
+C:\Users\AndersonLaptop\Documents\BootCamp DotNet Developer\BootCamp DotNet Developer\Projeto-Sistema-Abstraindo-Celular-POO\obj\Debug\net6.0\ref\Projeto-Sistema-Abstraindo-Celular-POO.dll
