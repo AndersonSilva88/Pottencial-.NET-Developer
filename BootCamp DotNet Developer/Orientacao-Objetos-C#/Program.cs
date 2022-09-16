@@ -1,8 +1,15 @@
 ﻿using Orientacao_Objetos_C_.Models;
+using Orientacao_Objetos_C_.Interfaces;
 
-Corrente corrente = new Corrente();
-corrente.Creditar(500);
-corrente.ExibirSaldo();
+ICalculadora cal = new Calculadora();
+Console.WriteLine(cal.Multiplicar(10, 2));
+
+
+// Computador computador = new Computador();
+
+// Corrente corrente = new Corrente();
+// corrente.Creditar(500);
+// corrente.ExibirSaldo();
 
 
 // Aluno aluno = new Aluno();
