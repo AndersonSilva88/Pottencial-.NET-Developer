@@ -1,16 +1,16 @@
 @model Projeto_ASP_NET_MVC.Models.Contato
 
 @{
-    ViewData["Title"] = "Criar novo contato";
+    ViewData["Title"] = "Editar novo contato";
 }
 
-<h1>Criar novo contato</h1>
+<h1>Editar novo contato</h1>
 
 <hr>
 
 <div class="row">
     <div class="col-md-4">
-        <form asp-action="Criar">
+        <form asp-action="Editar">
             <div class="form-group">
                 <label asp-for="Nome" class="control-label"></label>
                 <input asp-for="Nome" class="form-control" />
@@ -25,7 +25,7 @@
             </div>
             <br>
             <div class="form-group">
-                <input type="submit" value="Criar" class="btn btn-primary" />
+                <input type="submit" value="Editar" class="btn btn-primary" />
             </div>
         </form>
     </div>
